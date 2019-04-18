@@ -1,1 +1,1 @@
-# Triplets
+# Triplets with Javascript
